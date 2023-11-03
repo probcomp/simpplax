@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "splax"
+name = "simpplax"
 version = "0.1.0"
 description = ""
 authors = ["McCoy R. Becker <mccoyb@mit.edu>"]
